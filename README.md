@@ -27,5 +27,7 @@ also i like pink its a nice color
 
 # EDIT: nevermind im working on it again im into shaders
 
-### 1,000,000,000 CUBES VERSION COMING OUT SOON AT 60 FPS ON AN RX 570
-RAYLIB VER WILL BE AVAILABLE SOON
+### 1,000,000,000 CUBES VERSION COMING OUT SOON AT 60 FPS ON AN RX 570 (hopefully itll run on my intel uhd graphics 620)
+# raylib absolutely sucks, nothing against raysan5 though. I just prefer opengl.
+### UPDATE ON THE WHOLE THING
+I've changed the name to zenithEngine, it sounds cooler. So far I've got movement solved and it works quite decently for an opengl engine. lighting can probably wait til later due to it being annoying as hell to calculate, I've got textures and cubemaps solved and working quite well, i've got full object rendering and stuff done as well.
